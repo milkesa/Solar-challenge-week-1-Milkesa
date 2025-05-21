@@ -6,7 +6,8 @@ Milkesa Kumera Jaleta
 
 1. Clone the repo:
 \\\
-git clone https://github.com/YOUR_USERNAME/Solar-challenge-week-1-Milkesa.git
+git clone https://github.com/milkesa/Solar-challenge-week-1-Milkesa.git
+
 cd Solar-challenge-week-1-Milkesa
 \\\
 
